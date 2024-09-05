@@ -24,7 +24,8 @@ class Sohna_Ai:
             'Sports': ['Basketball', 'Bowling', 'Football'],
             'Anime': ['One Piece', 'Black Clover', 'Seven Deadly Sins', 'Dragon Ball',
                       'My Hero Academia', 'Full Metal Alchemist', 'Hunter X Hunter',
-                      'Demon Slayer', 'Spy X Family', 'Assassination Classroom'],}
+                      'Demon Slayer', 'Spy X Family', 'Assassination Classroom']
+        }
 
     def __str__(self):
         return f'{self.name} | {self.position}'
